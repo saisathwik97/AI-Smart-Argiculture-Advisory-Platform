@@ -1,0 +1,121 @@
+node_modules
+venv
+.env
+__pycache__
+*.pyc
+frontend/node_modules
+server/node_modules
+ml-service/venv 
+# ==========================================
+# Node.js
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ==========================================
+# Environment Variables / Secrets
+# ==========================================
+.env
+.env.*
+!.env.example
+
+# ==========================================
+# Python Virtual Environments
+# ==========================================
+venv/
+venv*/
+.venv/
+.venv*/
+env/
+env*/
+ENV/
+ENV*/
+virtualenv/
+virtualenv*/
+.venv*/
+venv*/
+python-env/
+python-env*/
+python_venv/
+python_venv*/
+pyenv/
+pyenv*/
+
+# ==========================================
+# Python Cache / Compiled Files
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+
+# ==========================================
+# Python Tools / Testing
+# ==========================================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+.pyre/
+.pytype/
+
+# ==========================================
+# Jupyter Notebook
+# ==========================================
+.ipynb_checkpoints/
+
+# ==========================================
+# VS Code
+# ==========================================
+.vscode/
+*.code-workspace
+
+# ==========================================
+# Windows
+# ==========================================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ==========================================
+# Logs
+# ==========================================
+*.log
+logs/
+
+# ==========================================
+# Build / Distribution
+# ==========================================
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# ==========================================
+# Frontend
+# ==========================================
+frontend/dist/
+frontend/.vite/
+
+# ==========================================
+# Temporary Files
+# ==========================================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# ==========================================
+# OS / Editor Files
+# ==========================================
+.DS_Store
+.idea/
