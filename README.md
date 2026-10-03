@@ -1,1 +1,0 @@
-# AI-Smart-Argiculture-Advisory-Platform
